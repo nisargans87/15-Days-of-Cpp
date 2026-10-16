@@ -11,3 +11,11 @@ int main(){
     }
     return 0;
 }
+
+
+/* 
+Concept Learned: Introduction to the for loop syntax (initialization, condition check, and increment/decrement).
+Output -
+Printing numbers from 1 to 10:
+1 2 3 4 5 6 7 8 9 10
+*/
