@@ -54,5 +54,5 @@ The primary intent of this repository is to bridge theoretical algorithm design 
 2. **Compile using g++:**
 ```bash
 g++ -std=c++17 program1_sequential_search.cpp -o search
-3. **Run the Executable:**
+Run the Executable:
 ./search
